@@ -1,3 +1,4 @@
 pytest
 selenium
+chromedriver-autoinstaller
 pytest-html
