@@ -26,4 +26,4 @@ jobs:
       run: sudo apt-get install xvfb
     - name: Run Python script 
       run: |
-        pytest
+        pytest -s
